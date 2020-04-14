@@ -1,3 +1,6 @@
+# Latest code
+Navigate to mvp/Web_App/version 0.5 Last updated: April 14, 2020
+
 
 # Minimum Viable Product
 We aim to create an image recognition open source platform for citizen scientists to help them aggregate and classify image based datasets. Currently, we plan to leverage cloud computing resources from Amazon AWS, and Microsoft Azure, but also strive to develop a custom independent platform of our own.
