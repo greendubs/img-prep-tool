@@ -1,4 +1,6 @@
 # Latest code
+The branch is on development freeze for now.
+
 Navigate to mvp/Web_App/version 0.5 
 
 Last updated: April 14, 2020
